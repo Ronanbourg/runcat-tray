@@ -1,0 +1,7 @@
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/runcat.dir
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/edit_cache.dir
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/rebuild_cache.dir
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/list_install_components.dir
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/install.dir
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/install/local.dir
+/home/derobian/Documents/Tools/GitHub/Ameliorations/RunCat-Tray/runcat-tray/build/CMakeFiles/install/strip.dir
