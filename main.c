@@ -9,7 +9,18 @@
 #include <libgen.h>
 
 #include <gtk/gtk.h>
+
+/* MODIFICATION RONANBOURG 09/08/2025
+ * The following lines allows a change of path for app-indicator.h depending on if you are using ayatana package or not.
+ * This is triggered by a flag in CMakeLists.txt depending on wich package you are using to compile the app. */
+/* #include <libappindicator/app-indicator.h> */
+
+#ifdef USE_AYATANA
+#include <libayatana-appindicator3-0.1/libayatana-appindicator/app-indicator.h>
+#else
 #include <libappindicator/app-indicator.h>
+#endif
+/*EN.D MODIFICATION RONANBOURG 09/08/2025 */
 
 static int FPS_H = 90;
 static int FPS_L = 6;
